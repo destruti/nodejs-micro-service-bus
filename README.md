@@ -9,7 +9,7 @@ between mutually interacting software applications in a service-oriented archite
 As a software architectural model for distributed computing, it is a specialty variant of the more general
 client-server model and promotes agility and flexibility with regard to communication between applications. 
 
-![php-benchmark](http://destruti.com/content/github-imgs/nodejs-micro-service-bus/service-bus.png)
+![php-benchmark](http://destruti.com/content/github-imgs/nodejs-micro-service-bus/service-bus-complete.png)
 
 
 ###What is NodeJs [nodejs.org](https://nodejs.org/)
