@@ -21,7 +21,7 @@ Node.js' package ecosystem, npm, is the largest ecosystem of open source librari
 
 ##The Propouse
 
-In this project, this example will try to make a conhection between two servers using NodeJs with any defined route.
+In this project, this example will try to make a connection between two servers using Node Js with ANY POST defined route.
 
 We use routes of [hapijs.com](http://hapijs.com/) as NodeJs Framework
 
