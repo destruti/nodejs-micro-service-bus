@@ -9,11 +9,15 @@ Node.js' package ecosystem, npm, is the largest ecosystem of open source librari
 ![php-benchmark](http://destruti.com/content/github-imgs/nodejs-micro-service-bus/nodejs-benchmark.png)
 
 
-##The Propouse
+##What is a Service Bus?
 
 In this project, this example will try to make a conhection between two servers using NodeJs with any defined route.
 
-![php-benchmark](http://destruti.com/content/github-imgs/nodejs-micro-service-bus/nodejs-benchmark.png)
+![php-benchmark](http://destruti.com/content/github-imgs/nodejs-micro-service-bus/service-bus.png)
+
+##The Propouse
+
+In this project, this example will try to make a conhection between two servers using NodeJs with any defined route.
 
 We use routes of Hati.js as NodeJs Framework
 
