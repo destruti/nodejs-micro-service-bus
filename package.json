@@ -1,0 +1,24 @@
+{
+  "name": "hub",
+  "version": "1.0.0",
+  "description": "hub from mlab",
+  "main": "canhotinho.js",
+  "scripts": {
+    "start": "canhotinho.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://limaedu@bitbucket.org/limaedu/hub.git"
+  },
+  "keywords": [
+    "hub",
+    "mlab"
+  ],
+  "author": "Eduardo Destruti",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/limaedu/hub#readme",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  },
+  "devDependencies": {}
+}
